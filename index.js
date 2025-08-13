@@ -109,7 +109,7 @@ function displayWeather({name = '-', main = {}, wind = {}}){
             <div class="otherInfo">
                 <div class="wind">
                     <p>Wind</p>
-                    <p>${speed}/h</p>
+                    <p>${speed}m/s</p>
                 </div>
                 <div class="wind">
                     <p>Pressure<p>
